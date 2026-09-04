@@ -1,0 +1,10 @@
+metric,value
+total_images,115
+total_boxes,233
+invalid_annotations,0
+quality_review_images,8
+images_removed_after_eda,0
+final_images_retained,115
+mean_brightness,141.72
+median_sharpness,344.33
+detection_class,number_plate

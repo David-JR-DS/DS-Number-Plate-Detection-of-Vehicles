@@ -1,0 +1,36 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache / secrets
+.streamlit/secrets.toml
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs / temporary files
+*.log
+*.tmp
+
+# Ultralytics cache/settings
+runs/
+# Generated dataset cache
+*.cache

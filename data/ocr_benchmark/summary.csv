@@ -1,0 +1,2 @@
+pipeline,benchmark_plates,exact_match_accuracy,mean_character_accuracy,mean_ocr_confidence
+Streamlit production OCR,19,0.15789473684210525,0.5356791600212653,0.6862783577614424

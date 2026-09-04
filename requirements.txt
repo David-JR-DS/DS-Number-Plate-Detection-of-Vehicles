@@ -1,0 +1,10 @@
+ultralytics==8.4.138
+streamlit==1.63.0
+
+paddlepaddle==3.2.0
+paddleocr==3.2.0
+
+numpy>=2.0,<3
+pandas>=2.2,<3
+Pillow>=10.0
+PyYAML>=6.0

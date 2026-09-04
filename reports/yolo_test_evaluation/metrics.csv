@@ -1,0 +1,7 @@
+metric,value
+precision_percent,93.05
+recall_percent,60.00
+map50_percent,68.62
+map50_95_percent,38.32
+mean_inference_ms_t4,19.73
+median_inference_ms_t4,19.71

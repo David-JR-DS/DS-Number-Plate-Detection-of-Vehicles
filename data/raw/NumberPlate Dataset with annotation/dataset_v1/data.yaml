@@ -1,0 +1,8 @@
+path: C:\Users\david\OneDrive\Desktop\MT48-DS-David\GUVI DS Projects\Number Plate
+  Detection of Vehicles\NumberPlate Datset with annotation\dataset_v1
+train: train/images
+val: val/images
+test: test/images
+nc: 1
+names:
+- plate
