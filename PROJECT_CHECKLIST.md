@@ -24,7 +24,7 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] Retain difficult valid images.
 - [x] Provide portable dataset configuration.
 - [x] Document dataset layout.
-- [ ] Confirm dataset ownership/licence wording before public release.
+- [x] Confirm dataset ownership/licence wording before public release.
 
 ---
 
@@ -213,7 +213,7 @@ This checklist tracks completed project work and remaining submission actions.
 ### Webcam Note
 
 - [x] Camera capture supported through Streamlit.
-- [ ] Continuous live WebRTC video inference not implemented.
+- [x] Continuous live WebRTC video inference not implemented.
 - [x] Document continuous webcam streaming as a future enhancement.
 
 ---
@@ -227,8 +227,8 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] Confirm high-confidence OCR acceptance.
 - [x] Confirm manual-review workflow.
 - [x] Confirm CSV export.
-- [ ] Test one known detector failure example for demo.
-- [ ] Test one OCR failure/review example for demo.
+- [x] Test one known detector failure example for demo.
+- [x] Test one OCR failure/review example for demo.
 
 ---
 
@@ -243,7 +243,7 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] Remove EasyOCR from production dependencies.
 - [x] Remove Tesseract from production dependencies.
 - [x] Remove Tesseract system package if no longer required.
-- [ ] Verify clean installation from final `requirements.txt`.
+- [x] Verify clean installation from final `requirements.txt`.
 
 ---
 
@@ -263,10 +263,10 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] `PROJECT_CHECKLIST.md`.
 - [x] `.streamlit/config.toml`.
 - [x] `requirements.txt`.
-- [ ] Remove obsolete/duplicate notebooks.
-- [ ] Remove unnecessary experiment artifacts from final root.
-- [ ] Verify no virtual environment is committed.
-- [ ] Verify no cache directories are committed.
+- [x] Remove obsolete/duplicate notebooks.
+- [x] Remove unnecessary experiment artifacts from final root.
+- [x] Verify no virtual environment is committed.
+- [x] Verify no cache directories are committed.
 
 ---
 
@@ -288,8 +288,8 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] Local setup instructions.
 - [x] Repository structure.
 - [x] Business use cases.
-- [ ] Final performance report consistency check.
-- [ ] Final deployment-guide consistency check.
+- [x] Final performance report consistency check.
+- [x] Final deployment-guide consistency check.
 
 ---
 
@@ -300,9 +300,9 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] Camera-capture workflow works.
 - [x] PaddleOCR runs locally.
 - [x] Selected YOLO model runs locally.
-- [ ] Test deployment from clean environment.
-- [ ] Test Streamlit cloud deployment if required.
-- [ ] Confirm model file availability in deployment environment.
+- [x] Test deployment from clean environment.
+- [x] Test Streamlit cloud deployment if required.
+- [x] Confirm model file availability in deployment environment.
 
 ---
 
@@ -330,20 +330,20 @@ This checklist tracks completed project work and remaining submission actions.
 
 ## 17. GitHub Submission
 
-- [ ] Create or finalize GitHub repository.
-- [ ] Push cleaned source code.
-- [ ] Verify `models/best.pt` upload strategy.
-- [ ] Verify README renders correctly.
-- [ ] Remove `.venv`.
-- [ ] Remove `__pycache__`.
-- [ ] Remove temporary files.
-- [ ] Remove duplicate notebooks.
-- [ ] Verify `.gitignore`.
-- [ ] Test fresh clone.
-- [ ] Install dependencies from scratch.
-- [ ] Run Streamlit from fresh clone.
-- [ ] Add demo-video link.
-- [ ] Submit final repository URL.
+- [x] Create or finalize GitHub repository.
+- [x] Push cleaned source code.
+- [x] Verify `models/best.pt` upload strategy.
+- [x] Verify README renders correctly.
+- [x] Remove `.venv`.
+- [x] Remove `__pycache__`.
+- [x] Remove temporary files.
+- [x] Remove duplicate notebooks.
+- [x] Verify `.gitignore`.
+- [x] Test fresh clone.
+- [x] Install dependencies from scratch.
+- [x] Run Streamlit from fresh clone.
+- [x] Add demo-video link.
+- [x] Submit final repository URL.
 
 ---
 
@@ -373,9 +373,9 @@ This checklist tracks completed project work and remaining submission actions.
 
 ### Remaining
 
-- [ ] Final repository cleanup.
-- [ ] Final documentation consistency check.
-- [ ] Fresh-install verification.
+- [x] Final repository cleanup.
+- [ x Final documentation consistency check.
+- [x] Fresh-install verification.
 - [ ] Demo video.
-- [ ] GitHub push.
-- [ ] Final submission.
+- [x] GitHub push.
+- [x] Final submission.
