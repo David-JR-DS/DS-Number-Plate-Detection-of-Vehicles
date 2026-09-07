@@ -711,8 +711,8 @@ Production deployment would require:
 - [x] Final detector/OCR report outputs copied into `reports/`
 - [x] `docs/PERFORMANCE_REPORT.md`
 - [x] `docs/DEPLOYMENT_GUIDE.md`
-- [ ] Final demo video link
-- [ ] Final GitHub push and fresh-clone verification
+- [x] Final demo video link
+- [x] Final GitHub push and fresh-clone verification
 
 ---
 
@@ -720,7 +720,7 @@ Production deployment would require:
 
 Demo video link:
 
-To be added after final recording.
+[Watch the project demo video](https://drive.google.com/file/d/1W7uNKhB9-EXsC5-CJd4v54L_SyoWbNgQ/view?usp=drive_link)
 
 The final demo will show:
 
