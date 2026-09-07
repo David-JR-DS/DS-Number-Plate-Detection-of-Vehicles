@@ -24,7 +24,7 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] Retain difficult valid images.
 - [x] Provide portable dataset configuration.
 - [x] Document dataset layout.
-- [x] Confirm dataset ownership/licence wording before public release.
+- [ ] Confirm dataset ownership/licence wording before public release.
 
 ---
 
@@ -227,8 +227,8 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] Confirm high-confidence OCR acceptance.
 - [x] Confirm manual-review workflow.
 - [x] Confirm CSV export.
-- [x] Test one known detector failure example for demo.
-- [x] Test one OCR failure/review example for demo.
+- [ ] Test one known detector failure example for demo.
+- [ ] Test one OCR failure/review example for demo.
 
 ---
 
@@ -243,8 +243,6 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] Remove EasyOCR from production dependencies.
 - [x] Remove Tesseract from production dependencies.
 - [x] Remove Tesseract system package if no longer required.
-- [x] Verify clean installation from final `requirements.txt`.
-
 ---
 
 ## 13. Repository Structure
@@ -263,10 +261,10 @@ This checklist tracks completed project work and remaining submission actions.
 - [x] `PROJECT_CHECKLIST.md`.
 - [x] `.streamlit/config.toml`.
 - [x] `requirements.txt`.
-- [x] Remove obsolete/duplicate notebooks.
-- [x] Remove unnecessary experiment artifacts from final root.
-- [x] Verify no virtual environment is committed.
-- [x] Verify no cache directories are committed.
+- [ ] Remove obsolete/duplicate notebooks.
+- [ ] Remove unnecessary experiment artifacts from final root.
+- [ ] Verify no virtual environment is committed.
+- [ ] Verify no cache directories are committed.
 
 ---
 
@@ -308,23 +306,26 @@ This checklist tracks completed project work and remaining submission actions.
 
 ## 16. Demo Video
 
-- [ ] Record final 3–5 minute demo.
-- [ ] Introduce project objective.
-- [ ] Show Streamlit app.
-- [ ] Show model-performance dashboard.
-- [ ] Upload representative vehicle image.
-- [ ] Run YOLO detection.
-- [ ] Show bounding boxes.
-- [ ] Show detected plate crops.
-- [ ] Show PaddleOCR output.
-- [ ] Show structured result table.
-- [ ] Demonstrate manual correction.
-- [ ] Demonstrate CSV download.
-- [ ] Show camera capture.
-- [ ] Mention detector limitations.
-- [ ] Mention OCR limitations.
-- [ ] Mention continuous live webcam streaming as future work.
-- [ ] Add demo URL to README/submission form.
+**Demo video:** [Watch the project demo video](https://drive.google.com/file/d/1W7uNKhB9-EXsC5-CJd4v54L_SyoWbNgQ/view?usp=drive_link)
+
+- [x] Record final demo video.
+- [x] Introduce project objective.
+- [x] Show Streamlit app.
+- [x] Show model-performance dashboard.
+- [x] Upload representative vehicle image.
+- [x] Run YOLO detection.
+- [x] Show bounding boxes.
+- [x] Show detected plate crops.
+- [x] Show PaddleOCR output.
+- [x] Show structured result table.
+- [x] Demonstrate manual correction.
+- [x] Demonstrate CSV download.
+- [x] Show camera capture.
+- [x] Mention detector limitations.
+- [x] Mention OCR limitations.
+- [x] Mention continuous live webcam streaming as future work.
+- [x] Add demo URL to README.
+- [x] Add demo URL to final submission form.
 
 ---
 
@@ -374,8 +375,7 @@ This checklist tracks completed project work and remaining submission actions.
 ### Remaining
 
 - [x] Final repository cleanup.
-- [ x Final documentation consistency check.
+- [x] Final documentation consistency check.
 - [x] Fresh-install verification.
-- [ ] Demo video.
 - [x] GitHub push.
 - [x] Final submission.
